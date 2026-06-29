@@ -1,18 +1,102 @@
-# 💫 About Me:
-🔭 I’m currently working on SmartDB (A multimodal data conversion and management system)<br>🤝 I’m looking for help with SmartDB<br>🌱 I’m currently learning App Development <br>⚡ Fun fact : I don't know how to giveup
+<h1 align="center">Hi 👋, I'm Aditya Katare</h1>
+<h3 align="center">Computer Science Student | Full Stack Learner | Cloud & Web3 Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-katare-873a56385) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:katareaditya75@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ADITYA-K-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ADITYA-K-07&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-K-07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Projects+%F0%9F%9A%80;Learning+Cloud+%E2%98%81%EF%B8%8F;Exploring+Web3+%F0%9F%8C%90;AI+%26+Machine+Learning+%F0%9F%A4%96;Always+Learning+Something+New" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ADITYA-K-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Student
+- ☁️ Learning AWS Cloud
+- 🌐 Exploring Web3 & Blockchain
+- 🤖 Interested in AI & Machine Learning
+- 💻 Passionate about Full Stack Development
+- 🏁 Huge Formula 1 fan
+- 🎯 Goal: Build impactful products and contribute to open source
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,git,github,vscode,linux,docker,aws" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ADITYA-K-07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-K-07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-K-07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- AWS Cloud ☁️
+- JavaScript & Node.js
+- React
+- Web3 Development
+- AI & Machine Learning
+- Docker
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build impactful full-stack projects
+- ✅ Participate in hackathons
+- ✅ Contribute to Open Source
+- ✅ Master Cloud & DevOps
+- ✅ Learn AI Engineering
+- ✅ Land Software Engineering Internship
+
+---
+
+## 📫 Connect with Me
+
+<p>
+
+<a href="https://github.com/ADITYA-K-07">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-katare-873a56385">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ "Keep Building. Keep Learning. Keep Shipping."
+
+</p>

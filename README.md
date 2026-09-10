@@ -8,10 +8,12 @@
 
 <br />
 
-<a href="https://github.com/ADITYA-K-07"><img src="https://komarev.com/ghpvc/?username=ADITYA-K-07&label=PROFILE+SCANS&color=0B3D91&style=for-the-badge" alt="Profile scans" /></a>
-<a href="https://www.linkedin.com/in/aditya-katare"><img src="https://img.shields.io/badge/LINKEDIN-REPORT%20IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://tenor.com/view/homelander-laser-the-boys-gif-18467681"><img src="https://c.tenor.com/KKOU-9p_-yMAAAAC/homelander-laser.gif" alt="Animated Homelander laser eyes sticker" height="42" /></a>
-<a href="mailto:katareaditya75@gmail.com"><img src="https://img.shields.io/badge/CONTACT-HQ-D4AF37?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email Aditya" /></a>
+<p>
+  <strong>CONNECT</strong>
+  &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/aditya-katare-873a56385">LinkedIn</a>
+  &nbsp;·&nbsp; <a href="mailto:katareaditya75@gmail.com">katareaditya75@gmail.com</a>
+  &nbsp;·&nbsp; <a href="tel:+919970987911">+91 99709 87911</a>
+</p>
 
 </div>
 
@@ -42,6 +44,8 @@
 <div align="center">
 
 ## 🚧 CURRENTLY BUILDING
+
+<a href="https://tenor.com/view/homelander-smile-handsome-gif-14687917"><img src="https://media1.tenor.com/images/7383044936312e1725fee5fe59851aa3/tenor.gif?itemid=14687917" alt="Animated Homelander smile sticker" height="88" /></a>
 
 </div>
 
@@ -89,6 +93,8 @@
 <div align="center">
 
 ## ⚡ ACTIVE MISSIONS
+
+<a href="https://gifdb.com/gif/homelander-flying-on-crowd-join-vc-1tpigzokbgjd9wg6"><img src="https://gifdb.com/images/high/homelander-flying-on-crowd-join-vc-1tpigzokbgjd9wg6.gif" alt="Animated Homelander flying sticker" height="90" /></a>
 
 </div>
 
@@ -143,6 +149,8 @@
 <div align="center">
 
 ## 🏆 THE RECORD
+
+<a href="https://gifdb.com/gif/homelander-meme-heavy-sigh-j4we8k60jc73ocko"><img src="https://gifdb.com/images/high/homelander-perfect-meme-yk7rjyto40chpzii.gif" alt="Animated Homelander perfect reaction sticker" height="82" /></a>
 
 |  | Achievement |
 | :--: | :--- |

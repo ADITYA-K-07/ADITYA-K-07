@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-vought-systems.png" alt="A cinematic original superhero-inspired systems banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:061A40,43:0B3D91,73:D4AF37,100:9B111E&text=ADITYA%20KATARE&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=SYSTEMS%20ENGINEER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20CLOUD&descAlignY=61&descSize=16&animation=twinkling" alt="Aditya Katare profile header" width="100%" />
 
 <br />
 
@@ -10,16 +10,21 @@
 
 <a href="https://github.com/ADITYA-K-07"><img src="https://komarev.com/ghpvc/?username=ADITYA-K-07&label=PROFILE+SCANS&color=0B3D91&style=for-the-badge" alt="Profile scans" /></a>
 <a href="https://www.linkedin.com/in/aditya-katare"><img src="https://img.shields.io/badge/LINKEDIN-REPORT%20IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://tenor.com/view/homelander-laser-the-boys-gif-18467681"><img src="https://c.tenor.com/KKOU-9p_-yMAAAAC/homelander-laser.gif" alt="Animated Homelander laser eyes sticker" height="42" /></a>
 <a href="mailto:katareaditya75@gmail.com"><img src="https://img.shields.io/badge/CONTACT-HQ-D4AF37?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email Aditya" /></a>
 
 </div>
+
+<img src="assets/signal-pulse.svg" alt="Animated live systems signal" width="100%" />
 
 <br />
 
 <table>
   <tr>
     <td width="28%" align="center">
-      <img src="assets/command-insignia.png" alt="Original command insignia" width="190" />
+      <a href="https://www.behance.net/gallery/106137503/HomeLANDER"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/6b70df106137503.5f88bbe47bf7a.jpg" alt="Homelander digital fan art by Alexander Arenas Albán" width="190" /></a>
+      <br />
+      <sub><a href="https://www.behance.net/gallery/106137503/HomeLANDER">Fan art: Alexander Arenas Albán</a></sub>
     </td>
     <td width="72%">
       <h2>THE SYSTEM BEHIND THE CAPE</h2>
@@ -29,6 +34,8 @@
     </td>
   </tr>
 </table>
+
+<img src="assets/signal-pulse.svg" alt="Animated live systems signal" width="100%" />
 
 ---
 
@@ -75,6 +82,8 @@
   </tr>
 </table>
 
+<img src="assets/signal-pulse.svg" alt="Animated live systems signal" width="100%" />
+
 ---
 
 <div align="center">
@@ -110,28 +119,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / LOCAL DEPLOYMENT</h3>
-      <p><strong>Production Websites for Local Businesses</strong></p>
-      <p>Built brand-specific, responsive websites for Sniffy, BodyNation, and Evolution - with reusable components, inquiry flows, and mobile-first interfaces.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0B3D91?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-0B3D91?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Responsive_UI-D4AF37?style=flat-square&logoColor=111827" alt="Responsive UI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / VCLOUDOPS</h3>
-      <p><strong>President, Official Cloud Computing Club</strong></p>
-      <p>Leading cloud education initiatives and technical events for 500+ members at VIT Pune.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Leadership-9B111E?style=flat-square&logoColor=white" alt="Leadership" />
-        <img src="https://img.shields.io/badge/Cloud-D4AF37?style=flat-square&logo=icloud&logoColor=111827" alt="Cloud" />
-        <img src="https://img.shields.io/badge/Community-0B3D91?style=flat-square&logoColor=white" alt="Community" />
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -149,6 +136,8 @@
 
 </div>
 
+<img src="assets/signal-pulse.svg" alt="Animated live systems signal" width="100%" />
+
 ---
 
 <div align="center">
@@ -157,12 +146,14 @@
 
 |  | Achievement |
 | :--: | :--- |
+| 👑 | **President - VCloudOps**, the Official Cloud Computing Club of VIT Pune |
 | 🎓 | **CGPA 9.03 / 10.0** - Computer Engineering, VIT Pune |
 | ☁️ | **AWS Certified ×3** - Cloud infrastructure, services, and architecture |
 | 🏆 | **Winner - Boardroom, E-Summit '26** |
-| 👑 | **President - VCloudOps**, the Official Cloud Computing Club of VIT Pune |
 
 </div>
+
+<img src="assets/signal-pulse.svg" alt="Animated live systems signal" width="100%" />
 
 ---
 
@@ -170,12 +161,14 @@
 
 ## 📡 LIVE INTELLIGENCE
 
-<img height="174" src="https://github-readme-stats.vercel.app/api?username=ADITYA-K-07&show_icons=true&rank_icon=github&hide_border=true&bg_color=061A40&title_color=D4AF37&icon_color=E31B23&text_color=FFFFFF&ring_color=D4AF37" alt="GitHub statistics" />
-<img height="174" src="https://streak-stats.demolab.com?user=ADITYA-K-07&hide_border=true&background=061A40&ring=D4AF37&fire=E31B23&currStreakLabel=D4AF37&sideLabels=FFFFFF&dates=8DA9D6&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub streak" />
+<a href="https://github.com/ADITYA-K-07?tab=followers"><img src="https://img.shields.io/github/followers/ADITYA-K-07?style=for-the-badge&label=FOLLOWERS&color=0B3D91&labelColor=061A40&logo=github&logoColor=white" alt="GitHub followers" /></a>
+<a href="https://github.com/ADITYA-K-07/MultiPath/stargazers"><img src="https://img.shields.io/github/stars/ADITYA-K-07/MultiPath?style=for-the-badge&label=MULTIPATH%20STARS&color=D4AF37&labelColor=061A40&logo=github&logoColor=white" alt="MultiPath stars" /></a>
+<a href="https://github.com/ADITYA-K-07/Reverse-Proxy-Server/stargazers"><img src="https://img.shields.io/github/stars/ADITYA-K-07/Reverse-Proxy-Server?style=for-the-badge&label=PROXY%20STARS&color=9B111E&labelColor=061A40&logo=github&logoColor=white" alt="Reverse Proxy Server stars" /></a>
 
-<br />
+<br /><br />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-K-07&layout=compact&hide_border=true&bg_color=061A40&title_color=D4AF37&text_color=FFFFFF" alt="Top languages" />
+<a href="https://github.com/ADITYA-K-07/MultiPath/commits/main"><img src="https://img.shields.io/github/last-commit/ADITYA-K-07/MultiPath?style=for-the-badge&label=MULTIPATH%20LAST%20UPDATE&color=0B3D91&labelColor=061A40&logo=git&logoColor=white" alt="MultiPath last update" /></a>
+<a href="https://github.com/ADITYA-K-07/Reverse-Proxy-Server/commits/main"><img src="https://img.shields.io/github/last-commit/ADITYA-K-07/Reverse-Proxy-Server?style=for-the-badge&label=PROXY%20LAST%20UPDATE&color=D4AF37&labelColor=061A40&logo=git&logoColor=111827" alt="Reverse Proxy Server last update" /></a>
 
 </div>
 

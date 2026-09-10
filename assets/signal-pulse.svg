@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="42" viewBox="0 0 960 42" role="img" aria-label="Live systems signal">
+  <defs>
+    <linearGradient id="beam" x1="0" x2="1">
+      <stop offset="0" stop-color="#061A40"/>
+      <stop offset="0.38" stop-color="#0B3D91"/>
+      <stop offset="0.5" stop-color="#D4AF37"/>
+      <stop offset="0.62" stop-color="#9B111E"/>
+      <stop offset="1" stop-color="#061A40"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="42" rx="21" fill="#061A40"/>
+  <path d="M20 21H355L375 8L394 33L415 15L438 21H940" fill="none" stroke="url(#beam)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="105 835">
+    <animate attributeName="stroke-dashoffset" values="0;-940" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="470" cy="21" r="5" fill="#D4AF37">
+    <animate attributeName="r" values="4;7;4" dur="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.35;1" dur="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="490" y="25" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">LIVE SYSTEM SIGNAL</text>
+</svg>
